@@ -1,5 +1,5 @@
-- 👋 Olá, Me chamo @Derivedhen
+- 👋 Olá, Me chamo Diego
 - 👀 Estou interessado em Hacking
-- 🌱 Atualmente estou aprendendo Pentest
+- 🌱 Atualmente aprendendo Pentest
 - 💞️ E estou visando colaborar em projetos relacionados a Segurança da Informação
 - 📫 Como me encontrar: https://www.linkedin.com/in/diego-alves-bispo/
